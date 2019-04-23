@@ -1,0 +1,61 @@
+body{background: #f2f2f0;font-family: "Microsoft Yahei";}
+.index-banner{height:500px;width:100%;background:#f2f2f0 url(../img-1/index-bg.jpg) center}
+
+.index-content{width:972px;background-color: #ffffff;margin:-24px auto;padding: 0 14px}
+
+.star-charisma{height:402px;width:625px;background-color: #8e8e8e;float: left;}
+.star-title{height: 72px;line-height:72px;color:#000;font-size:34px;background: url(../img-1/lebel-bg.png) no-repeat 135px 8px;}
+/*.charisma-lable{display:inline-block;height:50px;width:124px;background: url(../img-1/lebel-bg.png) no-repeat top right;margin-top: 7px}*/
+.star-ico{vertical-align:middle;margin-right: 5px;}
+.charisma-elable{color:#888;font-size:20px;margin-left: 5px;}
+
+
+.star-archive{height:402px;width:332px;background-color:#00e3e3;float: left;margin-left: 15px}
+.star-info{height: 310px;width: 294px;border:solid 1px #b2b2b2;position: relative;padding: 10px 18px;font-size: 14px;line-height: 1.5;}
+.info-photo{border-radius: 100px;position: absolute;top:25px;left:25px;}
+.userinfo{position: absolute;top:25px;right: 25px}
+.info-starvalue{margin-top: 160px}
+.give-star{display: inline-block;background: #f36e7f;font-weight: bold;padding:3px 20px;border-radius:20px;font-size:18px;margin-left: 20px;color:#fff;text-decoration: none;}
+
+.star-info .p-height{margin-top: 15px}
+
+
+.star-interview{background-color: #ceceff;padding-top: 22px}
+.star-interview p{font-size: 14px;line-height: 1.8;margin-top: 15px;}
+.content-left{float: left;width: 484px;}
+.content-right{float: right;width: 469px;}
+p.interview-title{width:322px;height:40px;color:#ffffff;background-color: #f36e7f;font-size: 24px;line-height:40px;padding-left: 10px;margin-top: 0}
+.ico-Q{display: inline-block;width: 22px;height: 22px; background-color: #5e5e5e;color: #ffffff;line-height: 22px;border-radius: 20px;font-size: 14px;text-align: center;}
+.ico-A{display: inline-block;width: 22px;height: 22px; background-color: #f36e7f;color: #ffffff;line-height: 22px;border-radius: 20px;font-size: 14px;text-align: center;}
+.line{border-top:1px dashed #676767;height:10px;margin-top:20px;}
+
+
+.star-impression{background-color: #00e3e3}
+.impression-photo2{margin-left: 11px}
+.impression-content{float: right;width: 377px;height: 300px;}
+.impression-content p{height:47px;width:365px;color:#000;font-size: 14px;padding-left:12px;padding-top: 28px}
+.reply-text{font-size: 16px;}
+.impression-content p.first-row{background:#ffd7de;}
+.impression-content p.second-row{background:#fec7d0;}
+.impression-content p.third-row{background:#f9b4bf;}
+.impression-content p.fourth-row{background:#f7a1af;}
+
+
+.past-players{background-color: #f1e1ff}
+.past-players dl{float: left;margin-right: 16px}
+dl.players-photo4{margin-right:0;}
+.past-players dd{width: 231px}
+
+.star-comment{height:100px;background-color: #bbffff}
+
+
+
+
+
+
+
+
+
+
+
+
